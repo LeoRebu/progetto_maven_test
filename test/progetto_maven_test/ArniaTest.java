@@ -19,7 +19,7 @@ public class ArniaTest {
 		
 		a1 = new Arnia("aa",true,true,0); //caso errato
 		//a1 = new Arnia("aa",true,true,-1); //caso errato 2
-		//a1 = new Arnia("aa",false,true,5); //caso disastroso
+		//a1 = new Arnia("aa",false,true,5); //caso disastroso!
 	}
 	
 	
