@@ -18,7 +18,7 @@ public class ArniaTest {
 		//a1 = new Arnia("aa",true,false,0); //caso corretto 2
 		
 		a1 = new Arnia("aa",true,true,0); //caso errato
-		//a1 = new Arnia("aa",true,true,-1); //caso ???
+		//a1 = new Arnia("aa",true,true,-1); //caso ancora errato
 		//a1 = new Arnia("aa",false,true,5); //caso disastroso
 	}
 	
