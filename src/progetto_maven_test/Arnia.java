@@ -4,7 +4,7 @@ public class Arnia {
 	
 	String nomeArnia;
 	boolean completamentoRaccolta;
-	boolean fineTrattamento;
+	boolean fineTrattamento
 	int numeroTrattamenti;
 	
 	
